@@ -1,5 +1,5 @@
 # LD_Toolbox
-Modular toolset for statistically relevant quantifiction of lipid droplet number and size in yeast cell populations.
+COMING SOON: Modular toolset for statistically relevant quantifiction of lipid droplet number and size in yeast cell populations.
 
 The modular Pyhton toolset includes features for:
  
