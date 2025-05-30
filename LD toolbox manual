@@ -1,0 +1,19 @@
+LD toolbox manual. H.W. IMB-Graz. University of Graz. 
+
+Interactive editor shortcuts:
+
+LD finder:
+Left-mouse click=select cross.
+Right-mouse click=delete cross.  
+Add cross=double left mouse click.
+y=enlarge position helper (when cross selected).
+c=shrink position helper (when cross selected).
+
+LD descriptor:
+left-mouse click=select circle.
++key=enlarge selected circle.
+-key=shrink selected circle.
+Hold left-mouse button+drag=move circle. 
+right-mouse click=delete selected circle.
+b=contrast-based batch removal of selected structure / u=undo.
+p=undo automatic object centre refinement.
